@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yesitsmaxwell.xyz
+Token: 33959fb48805c417e2f8c8b230c190dc3cd857ab3fc0bf2778153ad3304b4345
