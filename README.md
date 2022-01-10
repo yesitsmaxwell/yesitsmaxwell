@@ -4,6 +4,8 @@ I am Maxwell. I like to code. I live in Australia and have two pet budgies and a
 
 I like coding because it helps me pass the time. I post my code on Github because I can easily share it with friends.
 
+Psst! If you want to support me, download Brave, add some BAT and tip me!
+
 ## Projects
 
 My main project is TheKlukr, a bot for Discord servers. It has a personality like a chicken and is very funny at times.
